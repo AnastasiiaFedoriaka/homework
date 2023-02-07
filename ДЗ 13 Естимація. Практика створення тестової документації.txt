@@ -1,0 +1,6 @@
+https://nastya1989.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc&display_deleted_cases=0
+
+Для виконання тест-кейсів за технікою трьохточкової естимації знадобиться:
+E = (1 + 2 +4) / 3= 2,3 = 3 години
+
+Для виконання тест-кейсів за технікою Experience Based  знадобиться 2,5 години
